@@ -2,16 +2,18 @@
 <html>
 
 <head>
-    <title>Jean-Paul Nahirwe PHP</title>
+    <title>Jean-Paul and Arlequine PHP</title>
 </head>
 
 <body>
 
-    <h1>Jean-Paul Nahirwe PHP</h1>
+    <h1><b>Jean-Paul and Arlequine PHP</b></h1>
 
     <?php
     print "The SHA256 hash of \"Jean-Paul Nahirwe\" is ";
+    print "The SHA256 hash of \"MAGANZA Arlequine\" is ";
     print hash('sha256', 'Jean-Paul Nahirwe');
+    print hash('sha256', 'MAGANZA Arlequine');
     ?>
 
     <pre>
@@ -23,6 +25,16 @@
   JJ    JJ
    JJJJJJ
 </pre>
+<pre>
+    M         M
+    MM       MM
+    M M     M M
+    M  M   M  M
+    M   M M   M
+    M    M    M
+    M         M
+    M         M
+    </pre
 
     <p>
         <a href="check.php">Click here to check the error setting</a>

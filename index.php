@@ -17,23 +17,23 @@
     ?>
 
     <pre>
-    JJJJJJJJJJ
-        JJ
-        JJ
-        JJ
-        JJ
-  JJ    JJ
-   JJJJJJ
+    **********
+        **
+        **
+        **
+        **
+  **    **
+   ******
 </pre>
 <pre>
-    M         M
-    MM       MM
-    M M     M M
-    M  M   M  M
-    M   M M   M
-    M    M    M
-    M         M
-    M         M
+    *         *
+    **       **
+    * *     * *
+    *  *   *  *
+    *   * *   *
+    *    *    *
+    *         *
+    *         *
     </pre
 
     <p>

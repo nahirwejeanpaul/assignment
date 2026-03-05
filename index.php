@@ -10,9 +10,9 @@
     <h1><b>Jean-Paul and Arlequine PHP</b></h1>
 
     <?php
-    print "The SHA256 hash of \"Jean-Paul Nahirwe\" is ";
-    print "The SHA256 hash of \"MAGANZA Arlequine\" is ";
-    print hash('sha256', 'Jean-Paul Nahirwe');
+    print "The SHA256 hash of \"Jean-Paul Nahirwe\" is<br>";
+    print hash('sha256', 'Jean-Paul Nahirwe') . "<br>";
+    print "The SHA256 hash of \"MAGANZA Arlequine\" is<br>";
     print hash('sha256', 'MAGANZA Arlequine');
     ?>
 
